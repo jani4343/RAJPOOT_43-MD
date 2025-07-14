@@ -4,9 +4,9 @@
   "description": "A WhatsApp Bot Created To automate tasks",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name your name",
-    "stop": "pm2 stop your name",
-    "restart": "pm2 restart your name"
+    "start": "pm2 start index.js --deep-monitoring --attach --RAJPOOT_43 name",
+    "stop": "pm2 stop RAJPOOT_43",
+    "restart": "pm2 restart RAJPOOT_43"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
